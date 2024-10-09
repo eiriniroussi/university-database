@@ -1,8 +1,5 @@
 # university-database
 
-
-Here's the installation guide for your database project translated into English:
-
 DATABASE INSTALLATION INSTRUCTIONS
 
 Prerequisites: To install the database, you will need a database management tool such as SQL Server Management Studio (SSMS), Azure Data Studio, or similar.
